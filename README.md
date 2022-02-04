@@ -1,7 +1,7 @@
 ## Developed Breaking Bad Wiki using ReactJS, HTML5, CSS3, breaking bad APIs.
 ## Implemented ReactJS to create Frontend of the web app and Breaking Bad APIs in order to interact with the correctelements of the web page.
 <hr>
-<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
