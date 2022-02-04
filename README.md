@@ -1,3 +1,6 @@
+# Check the Deployed React app over here:
+https://abhinandan-khurana.github.io/Breaking_Bad_Wiki
+
 ## Developed Breaking Bad Wiki using ReactJS, HTML5, CSS3, breaking bad APIs.
 ## Implemented ReactJS to create Frontend of the web app and Breaking Bad APIs in order to interact with the correct elements of the web page.
 <hr>
